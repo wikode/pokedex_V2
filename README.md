@@ -1,4 +1,6 @@
 # pokedex_V2
+
+SITE : https://wikode.github.io/pokedex_V2/
  
 -- FR :
 Pokédex pour la première génération de Pokémons (région de Kanto).
